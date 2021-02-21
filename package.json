@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Hack Reactor <curriculum.team@hackreactor.com>",
+  "author": "Tarrin",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.20.0",
